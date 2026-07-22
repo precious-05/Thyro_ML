@@ -10,7 +10,7 @@ This project takes the pre-processed and encoded thyroid cancer dataset and appl
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **File:** `encoded_thyroid_2.csv`
 
@@ -110,7 +110,7 @@ A final **Seaborn bar chart** comparing all four models side by side:
 
 | Algorithm | Accuracy |
 |---|---|
-| **Logistic Regression** | **82.93%** ✅ Best |
+| **Logistic Regression** | **82.93%**  Best |
 | XGBoost | 82.83% |
 | Random Forest | 82.61% |
 | Decision Tree | 71.20% |
@@ -119,7 +119,7 @@ A final **Seaborn bar chart** comparing all four models side by side:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -134,7 +134,7 @@ A final **Seaborn bar chart** comparing all four models side by side:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
